@@ -1,13 +1,13 @@
 # Site settings
-title: Game Developer
+title: Likewise
 email: your-email@domain.com
 description: > # keep this and put description below
-  Programmer and Designer
-url: "https://yourdomain.com" # the base hostname & protocol for your site
+  The band of all time
+url: "https://likewise.github.io" # the base hostname & protocol for your site
 linkedin_url: "https://www.linkedin.com/in/gamingportfolio"
-github_username: gamingportfolio
-twitter_username: gamingportfolio
-footer_text: "This site uses <a href='https://github.com/gamingportfolio/urban-theme-portfolio'>urban-theme (portfolio)</a>."
+github_username: musicportfolio
+twitter_username: musicportfolio
+footer_text: "This site is 100% gluten free. (Change this later)"
 
 # Build settings
 markdown: kramdown
