@@ -1,4 +1,4 @@
-# The official Likewise website
+# Likewise
 
 This is the repository for the official Likewise website.
 
